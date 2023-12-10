@@ -1,6 +1,6 @@
 ## Welcome to Pelham's website!
 
-I'm an electrical and computer engineering student, currently studying at Cornell University. This website is just meant to to show off my projects, most of which have to do  with microcontrollers or digital signal processing or music or all of the above. 
+I'm an Electrical and Computer engineering student, currently studying at Cornell University. This website is  meant to to show off my projects, most of which have to do  with microcontrollers, digital signal processing, music, or all of the above. 
     
  - To [Projects](projects.md)  
   
