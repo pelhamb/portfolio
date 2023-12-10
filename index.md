@@ -8,4 +8,4 @@ I'm an electrical and computer engineering student, currently studying at Cornel
   
  - To [LAB 3](leb3.md)  
   
- - To [Music](LAB4.MD)
+ - To [Music](music.MD)
