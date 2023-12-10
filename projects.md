@@ -1,4 +1,4 @@
-## Projects
+## PROJECTS
   
 - [Maze Solving Robot](LAB4.MD)
   
