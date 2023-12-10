@@ -1,4 +1,4 @@
-# MUSIC 
+# Music
   
 I really enjoy playing piano and making beats in Ableton. Here, I'll just talk about the music-related things I've worked on over the years.
 
