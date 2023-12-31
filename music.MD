@@ -1,8 +1,8 @@
 # MUSIC
   
-I really enjoy playing piano and making beats in Ableton. Here, I'll just talk about the music-related things I've worked on over the years.
+I really enjoy playing piano and producing music in Ableton. Here, I'll just talk about the music-related things I've worked on over the years.
 
-I started playing piano in 8th grade because I was jealous of people who watched YouTube tutorials and could play cool songs. I was also taking a GarageBand class (private school, I know) around that time, and I felt like I was cheating when I used loops to make beats. Essentially, I decided that I would figure out how to play piano. I got lessons at the Belmont "School of Rock" and eventually started playing with the performance group there for a couple of seasons, until my parents made me quit piano lessons to study for the SAT/ACT. And to think, most parents have to strong-arm their kids into going to music lessons...
+I started playing piano in 8th grade because I was jealous of people who watched YouTube tutorials and could play cool songs. I was also taking a GarageBand class around that time, and I felt like I was cheating when I used loops to make beats. Essentially, I decided that I would figure out how to play piano. I got lessons at the Belmont "School of Rock" and eventually started playing with the performance group there for a couple of seasons, until my parents made me quit piano lessons to study for the SAT/ACT. And to think, most parents have to strong-arm their kids into going to music lessons...
 
 Anyways, I kept playing piano and finally got myself a license for Ableton Live (music production software) after earning some money working at the Home Depot the summer before my freshman year of college. Since my lessons ended, I've forgotten almost everything about how to read music, instead opting to create original chord progressions and songs while expanding my knowledge of music theory. I still don't really get the theory, and my piano technique is probably laughable, but I jam out. Some of my more fleshed-out productions are linked below.
   
