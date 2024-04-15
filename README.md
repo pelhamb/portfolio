@@ -1,2 +1,3 @@
 # Homepage
-Um not sure what this should be
+To improve is to change; to be perfect is to change often.
+- Winston Churchill
