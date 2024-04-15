@@ -8,9 +8,6 @@ I'm an Electrical and Computer Engineering student currently studying at Cornell
 
 I'm still working on this website, so please pardon the appearance of any incomplete pages.
 
-<img src="underconstruction.jpg" height="150" width="250">
-
-
 # Projects
 
 - [Maze Solving Robot](LAB4.MD)
