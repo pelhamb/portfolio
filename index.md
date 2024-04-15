@@ -44,7 +44,6 @@ You can find my SoundCloud [here](https://soundcloud.com/pelhamb) if you're inte
 
 <iframe width="60%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1450834441&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/pelhamb" title="Pelham" target="_blank" style="color: #cccccc; text-decoration: none;">Pelham</a> · <a href="https://soundcloud.com/pelhamb/st-ichiko-v3" title="st ichiko v4" target="_blank" style="color: #cccccc; text-decoration: none;">st ichiko v4</a></div>
 
-
  ### Running
 
  I was elected a team captain of Cornell's varsity Men's Track & Field team.
