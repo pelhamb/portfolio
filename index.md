@@ -16,15 +16,15 @@ I'm still working on this website, so please pardon the appearance of any incomp
   
  - To [MUSIC](music.MD)
 
- ## Projects
+## Projects
 
 
- ## Coursework
+## Coursework
 
 
- ## Personality
+## Personality
 
- ### Music
+### Music
 
 I enjoy playing piano and producing music in Ableton. 
 
