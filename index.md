@@ -18,8 +18,6 @@ I'm still working on this website, so please pardon the appearance of any incomp
 <video width="500" height="700" src="IMG_6084.mp4" type="video/mp4" preload="auto" autoplay muted loop>
 </video>
   
-This is a picture of our robot.  
-
 # Coursework
 
 I've taken classes covering a wide range of subjects.
@@ -45,3 +43,5 @@ Anyways, I kept playing piano, and since my lessons ended, I've forgotten almost
 ## Running
 
  My senior year of college, I was elected a team captain of the Cornell Men's Varsity Track & Field team.
+
+ <img src="SASH4.jpeg" height="312" width="250">
