@@ -53,7 +53,7 @@ Anyways, I kept playing piano, and since my lessons ended, I've forgotten almost
 
  My senior year of college, I was elected a team captain of the Cornell Men's Varsity Track & Field team.
 
- <img src="SASH4.jpeg" height="312" width="250">
+ <img src="SASH4.jpeg" height="624" width="500">
 
 
  * * * 
