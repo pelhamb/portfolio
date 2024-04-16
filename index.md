@@ -16,7 +16,7 @@ I'm still working on this website, so please pardon the appearance of any incomp
 
 # Projects
 
-- [Maze Solving Robot](LAB4.MD)
+- [Maze Solving Robot](docs/mazebot.md)
     
 <video width="500" height="700" src="IMG_6084.mp4" type="video/mp4" preload="auto" autoplay muted loop>
 </video>
