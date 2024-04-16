@@ -2,6 +2,6 @@
 
 source "https://rubygems.org"
 
-# gem "rails"
+gem "just-the-docs"
 
-gem "jekyll", "~> 4.3"
+#gem "jekyll", "~> 4.3"
