@@ -1,5 +1,9 @@
 ---
 layout: default
+title: Home
+nav_order: 1
+description: pbergesen22@gmail.com  |  615-480-6855
+permalink: /
 ---
 
 Welcome to Pelham's website!
