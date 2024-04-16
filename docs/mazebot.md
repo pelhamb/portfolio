@@ -14,7 +14,7 @@ The newest component of our robot is the RF transceivers we used in this lab. Th
   
 The robot had to be triggered to start by a 440 Hz frequency. This is why we implemented the microphone circuit in lab 3. This circuit is outlined in the picture below. It also includes an override button (not pictured) in case the FFT fails to recognize the proper frequency.
   
-<img src="IMG_8966.jpg" height="300" width="500">
+<img src="C:\Users\pberg\BERGESEN\personal\portfolio\IMG_8966.jpg" height="300" width="500">
   
 The robot's final task was to be able to navigate through a 5x5 block maze. To ensure that the robot navigated to all possible locations inside the maze, we implemented a depth-first search algorithm. Additionally, we had a protocol for dicretizing the maze structure into 25 coordinates, which required precise PID control and turns. In our final version of the navigation code, we implemented a pretty barebones PID which only took the P (Position) term into account, and also swerved extra hard if it was particularly close to a wall. 
   
@@ -22,19 +22,19 @@ This PID control had issues; for example, the robot performs best when it moves 
   
 Additionally, there were many cases within the maze where the robot would not be able to perform PID using both the left and right sensors. In these cases, we made specialized functions that would only refer to the PID input on the closest wall. Below is a picture of the final maze our robot navigated.
   
-<img src="IMG_8961.jpg" height="700" width="600">
+<img src="C:\Users\pberg\BERGESEN\personal\portfolio\IMG_8961.jpg" height="700" width="600">
   
 Another component of the maze search was to find the two IR LED "treasures" pictured in the maze above (such as the device attached to a red wire on the right). To do this, we adapted our phototransistor code from lab 2. Additionally, we ensured that if the robot were to encounter a treasure while searching the maze, it would stop searching for a minute and transmit the frequency of said treasure out to the bay station via the RF antenna. Below is the antenna:
   
-<img src="antenna.jpg" height="700" width="600">
+<img src="C:\Users\pberg\BERGESEN\personal\portfolio\antenna.jpg" height="700" width="600">
   
 A picture of the robot's phototransistors:
   
-<img src="IMG_6296.jpg" height="700" width="600">
+<img src="C:\Users\pberg\BERGESEN\personal\portfolio\IMG_6296.jpg" height="700" width="600">
   
 A picture of the robot and bay station together:
   
-<img src="IMG_8968.jpg" height="700" width="600">
+<img src="C:\Users\pberg\BERGESEN\personal\portfolio\IMG_8968.jpg" height="700" width="600">
   
 ## Concluding thoughts
   
