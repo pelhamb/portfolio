@@ -1,6 +1,12 @@
-# LAB 4  
+---
+layout: default
+title: Maze Solving Robot
+nav_order: 2
+description: pbergesen22@gmail.com  |  615-480-6855
+permalink: /
+---
   
-In this final lab, our goal was to assemble all the parts of our previous labs into one script. This includes the phototransistors for LED detection, microphone and op amp circuit for frequency analysis, antenna for receiving and sending radio information, ultrasonic sensors for wall detection, and servos for movement.
+In this final lab for ECE 3400, our goal was to assemble all the parts of our previous labs into one script. This includes the phototransistors for LED detection, microphone and op amp circuit for frequency analysis, antenna for receiving and sending radio information, ultrasonic sensors for wall detection, and servos for movement.
   
 ## Adding an RF transceiver
   
