@@ -19,11 +19,11 @@ I'm still working on this website, so please pardon the appearance of any incomp
 
 * * *
 
-# [Projects](docs/projects.md)
+# [Projects](docs/projects.html)
 
-# [Coursework](docs/coursework.md)
+# [Coursework](docs/coursework.html)
 
-# [Personality](docs/personality.md)
+# [Personality](docs/personality.hmtl)
 
 * * * 
 
