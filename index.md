@@ -19,24 +19,11 @@ I'm still working on this website, so please pardon the appearance of any incomp
 
 * * *
 
-# Projects
+# [Projects](docs/projects.md)
 
-- [Maze Solving Robot](docs/mazebot.md)
-    
-<video width="500" height="700" src="IMG_6084.mp4" type="video/mp4" preload="auto" autoplay muted loop>
-</video>
+# [Coursework](docs/coursework.md)
 
-
-* * *
-
-# Coursework
-
-I've taken classes covering a wide range of subjects.
-
-
-* * * 
-
-# Personality
+# [Personality](docs/personality.md)
 
 * * * 
 
