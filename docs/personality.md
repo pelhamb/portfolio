@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Personality
+title: Hobbies & Interests
 nav_order: 4
 ---
 
