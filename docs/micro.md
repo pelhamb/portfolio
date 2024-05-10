@@ -15,10 +15,10 @@ Some of my favorite projects are showcased below.
 
 ## Boid Swarm
 
+Pictured below, this was a microcontrollers project for ECE 4760 where we simulated a swarm of birds or "boids." The goal was to program such that as many boids could be animated as possible, while enforcing a strict framerate. This is an end result of the project, where we have 5000 boids animated. The strange snaking behavior arose from messing with our hardware-controlled boid parameters, adjusted with a potentiometer. When the swarm explodes outward, I am turning up the "avoid factor" parameter.
+
 <video width="600" height="850" src="IMG_1996.MOV" type="video/mov" preload="auto" autoplay muted loop>
 </video>
-
-Above: a microcontrollers project for ECE 4760 where we simulated a swarm of birds or "boids." The goal was to program such that as many boids could be animated as possible, while enforcing a strict framerate. This is an end result of the project, where we have 5000 boids animated. The strange snaking behavior arose from messing with our hardware-controlled boid parameters, adjusted with a potentiometer. When the swarm explodes outward, I am turning up the "avoid factor" parameter.
 
 * * * 
 
