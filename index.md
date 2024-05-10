@@ -12,18 +12,18 @@ I'm an Electrical and Computer Engineering student, currently studying at Cornel
 I'm still working on this website, so please pardon the appearance of any incomplete pages.
 
 ## Table of contents
-{: .no_toc .text-delta }
 
-1. TOC
-{:toc}
-
-* * *
+* * * 
 
 # [Projects](docs/projects.html)
 ## [Microcontrollers](docs/micro.html)
 ## [Maze Solving Robot](docs/mazebot.html)
 
+* * * 
+
 # [Coursework](docs/coursework.html)
+
+* * * 
 
 # [Personality](docs/personality.hmtl)
 ## [Running](docs/running.html)
