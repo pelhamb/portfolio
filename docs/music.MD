@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Music
+parent: Hobbies & Interests
 nav_order: 3
 ---
 
