@@ -17,7 +17,6 @@ Some of my favorite projects are showcased below.
 
 ## Boid Swarm
 
-
 <video width="600" height="850" src="IMG_1996.MOV" type="video/mov" preload="auto" autoplay muted loop>
 </video>
 

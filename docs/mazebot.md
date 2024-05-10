@@ -9,6 +9,11 @@ nav_order: 2
 
 * * * 
 
+<video width="500" height="700" src="IMG_6084.mp4" type="video/mp4" preload="auto" autoplay muted loop>
+</video>
+  
+This is a video of my [Maze Solving Robot](docs/mazebot.html) in an early navigation stage.
+
 In this final lab for Intelligent Physical Systems [ECE 3400], our goal was to assemble all the parts of our previous labs into one script. This includes the phototransistors for LED detection, microphone and op amp circuit for frequency analysis, antenna for receiving and sending radio information, ultrasonic sensors for wall detection, and servos for movement.
   
 ## Adding an RF transceiver
