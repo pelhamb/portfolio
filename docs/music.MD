@@ -7,6 +7,8 @@ nav_order: 3
 
 ## Music Production
 
+* * *
+
 I enjoy playing piano and producing music in Ableton. 
 
 I started messing around with the piano while taking a GarageBand class in 8th grade. I decided that I would learn  how to play, so I got lessons at the nearby "School of Rock" . . . until my parents made me quit these lessons to study for the SAT/ACT. 

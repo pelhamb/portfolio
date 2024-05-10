@@ -31,4 +31,4 @@ You can watch a demo video of my midi-controlled synthesizer below. I use my MID
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gv6tslaxl0o?si=n0J7mK1j7EzVpdau" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-An article was written about my project [here](https://hackaday.com/2023/12/22/raspberry-pi-pico-becomes-midi-compatible-synth/). Don't read the mean comments.
+Also, an article was written about my project [here](https://hackaday.com/2023/12/22/raspberry-pi-pico-becomes-midi-compatible-synth/) for whatever reason. Don't read the mean comments.
