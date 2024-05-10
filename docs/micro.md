@@ -24,7 +24,7 @@ Pictured below, this was a microcontrollers project for ECE 4760 where we simula
 
 ## MIDI Synth on RP2040
 
-You can watch a demo video of my midi-controlled synthesizer below. I use my MIDI keyboard as a controller, and the Raspberry Pi parses these messed-up MIDI outputs and plays the right notes (sometimes). 
+You can watch a demo video of my midi-controlled synthesizer below. I use my MIDI keyboard as a controller, and the Raspberry Pi parses these messed-up MIDI outputs and plays the right notes (sometimes). A far more detailed write-up of my project is linked [here](https://ece4760.github.io/Projects/Fall2023/pbb65/pbb65homepage.html).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gv6tslaxl0o?si=n0J7mK1j7EzVpdau" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
