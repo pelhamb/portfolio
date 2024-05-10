@@ -13,7 +13,7 @@ permalink: /
 I'm an student at Cornell University majoring in Electrical & Computer Engineering, with a minor in Psychology. This website is meant to show off my projects and give you a sense of my personality. I've worked with microcontrollers, digital signal processing, music, probability, and many other disciplines, so if you're seeking a multitalented hire please reach out through my [LinkedIn](https://www.linkedin.com/in/pelham-bergesen-87292a211/) so we can chat! I'm currently searching for a full-time role in electrical engineering, manufacturing engineering, data analytics/science, or project management, but I feel as if I embody my program's slogan of "ECEs can do everything," meaning I'm interested in a variety of fields and I'm sure we would have something to talk about. 
 
 
- <align="center" img src="docs/2024_roster_pic.jpg"  height="375" width="300">
+ <img align="center" src="docs/2024_roster_pic.jpg"  height="375" width="300">
 
 
 ## Table of Contents
