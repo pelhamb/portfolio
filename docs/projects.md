@@ -7,7 +7,7 @@ has_children: true
 
 ## PROJECTS
   
-- [Maze Solving Robot](mazebot.md)
+- [Maze Solving Robot](docs/mazebot.html)
   
 ## MEDIA
   
