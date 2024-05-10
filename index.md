@@ -20,18 +20,13 @@ I'm still working on this website, so please pardon the appearance of any incomp
 * * *
 
 # [Projects](docs/projects.html)
+## [Microcontrollers](docs/micro.html)
+## [Maze Solving Robot](docs/mazebot.html)
 
 # [Coursework](docs/coursework.html)
 
 # [Personality](docs/personality.hmtl)
+## [Running](docs/running.html)
+## [Music](docs/music.html)
 
 * * * 
-
-## Running
-
- My senior year of college, I was elected a team captain of the Cornell Men's Varsity Track & Field team.
-
- <img src="SASH4.jpeg" height="624" width="500">
-
-
- * * * 
