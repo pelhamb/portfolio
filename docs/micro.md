@@ -13,5 +13,5 @@ I've worked with microcontrollers in many different classes, such as Digital Sys
 
 Some of my favorite projects are showcased below.
 
-<video width="500" height="700" src="IMG_1996.MOV" type="video/mov" preload="auto" autoplay muted loop>
+<video width="600" height="850" src="IMG_1996.MOV" type="video/mov" preload="auto" autoplay muted loop>
 </video>
