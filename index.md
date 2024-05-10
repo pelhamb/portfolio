@@ -14,6 +14,7 @@ I'm an student at Cornell University majoring in Electrical & Computer Engineeri
 
 
 <img src="docs/2024_roster_pic.jpg" height="375" width="300">
+
 Pictured: Myself
 
 

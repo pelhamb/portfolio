@@ -6,18 +6,18 @@ has_children: true
 has_toc: false
 ---
 
-## PROJECTS
+## Projects
 
 * * * 
   
 - [Microcontrollers](docs/micro.html)
 - [Maze Solving Robot](docs/mazebot.html)
   
-## MEDIA
+## Media Gallery
 
 * * * 
 
 <video width="500" height="700" src="IMG_6084.mp4" type="video/mp4" preload="auto" autoplay muted loop>
 </video>
   
-This is a video of our robot in an early navigation stage.  
+This is a video of my [Maze Solving Robot](docs/mazebot.html) in an early navigation stage.
