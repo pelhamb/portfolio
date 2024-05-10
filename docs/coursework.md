@@ -12,6 +12,6 @@ I've taken classes covering a wide range of subjects.
 
 ## Professional Experience
 
-This is mostly included in my [resume](docs/resume.pdf)
+This is mostly included in my [resume](resume.pdf)
 
- <img src="docs/resume.jpg" height="900" width="650">
+ <img src="resume.jpg" height="900" width="650">

@@ -10,8 +10,10 @@ has_toc: false
 
 * * * 
 
-Text here
-  
-- [Microcontrollers](docs/micro.html)
-- [Maze Solving Robot](docs/mazebot.html)
+I've worked with microcontrollers in many different classes, such as Digital Systems Design Using Microcontrollers [ECE 4760], Embedded Systems [ECE 3140], and Intelligent Physical Systems [ECE 3400].
+
+* * * 
+
+- [Microcontrollers](micro.html)
+- [Maze Solving Robot](mazebot.html)
   
