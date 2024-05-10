@@ -18,8 +18,8 @@ I'm still working on this website, so please pardon the appearance of any incomp
 * * * 
 
 # [Projects](docs/projects.html)
-## [Microcontrollers](docs/micro.html)
-## [Maze Solving Robot](docs/mazebot.html)
+## - [Microcontrollers](docs/micro.html)
+## - [Maze Solving Robot](docs/mazebot.html)
 
 * * * 
 
@@ -28,7 +28,7 @@ I'm still working on this website, so please pardon the appearance of any incomp
 * * * 
 
 # [Personality](docs/personality.hmtl)
-## [Running](docs/running.html)
-## [Music](docs/music.html)
+## - [Running](docs/running.html)
+## - [Music Production](docs/music.html)
 
 * * * 
