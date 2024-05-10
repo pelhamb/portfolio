@@ -5,5 +5,9 @@ nav_order: 4
 has_children: true
 ---
 
+## Hobbies & Interests
 
-text here
+* * * 
+  
+- [Running](docs/running.html)
+- [Music Production](docs/music.html)

@@ -4,7 +4,8 @@ title: Coursework
 nav_order: 3
 ---
 
-## COURSEWORK
+## Coursework
 
+* * * 
 
 I've taken classes covering a wide range of subjects.

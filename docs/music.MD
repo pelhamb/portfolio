@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Music
+title: Music Production
 parent: Hobbies & Interests
 nav_order: 3
 ---
 
-# Music
+## Music Production
 
 I enjoy playing piano and producing music in Ableton. 
 
