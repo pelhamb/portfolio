@@ -3,7 +3,7 @@ layout: default
 title: Hobbies & Interests
 nav_order: 4
 has_children: true
-has_toc: false
+has_toc: true
 ---
 
 ## Hobbies & Interests
