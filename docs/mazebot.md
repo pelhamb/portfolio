@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Maze Solving Robot
+parent: Projects
 nav_order: 5
 ---
   
