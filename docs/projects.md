@@ -3,7 +3,7 @@ layout: default
 title: Projects
 nav_order: 2
 has_children: true
-has_toc: true
+has_toc: false
 ---
 
 ## Projects
@@ -14,6 +14,6 @@ I've worked with microcontrollers in many different classes, such as Digital Sys
 
 * * * 
 
-- [Microcontrollers](micro.md)
+- [Microcontrollers](micro.html)
 - [Maze Solving Robot](mazebot.html)
   
