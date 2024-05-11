@@ -16,4 +16,5 @@ I've worked with microcontrollers in many different classes, such as Digital Sys
 
 - [Microcontrollers](micro.html)
 - [Maze Solving Robot](mazebot.html)
+- [KitchenBot](kitchenbot.html)
   
