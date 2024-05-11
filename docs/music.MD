@@ -15,7 +15,7 @@ I started messing around with the piano while taking a GarageBand class in 8th g
 
 Anyways, I kept playing piano, and since my lessons ended, I've forgotten almost everything about how to read music, instead opting to create original chord progressions and songs while expanding my knowledge of music theory. Some of my productions are linked below. You can also find my entire SoundCloud library [here](https://soundcloud.com/pelhamb) if you're interested.
 
-I also like to work music into my engineering projects. See "MIDI Synth on RP2040" on [this page](docs/micro.html) in my [Projects](docs/projects.md) section.
+I also like to work music into my engineering projects. See "MIDI Synth on RP2040" on [this page](micro.html) in my [Projects](projects.md) section.
 
 [This](https://on.soundcloud.com/Kyiva) one samples "Up On The Roof" by the Drifters, the rest is played by yours truly. You have to listen all the way.
 
